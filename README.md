@@ -5,7 +5,6 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 * [What is MCP?](#what-is-mcp)
 * [Clients](#clients)
 * [Tutorials](#tutorials)
-* [Server Implementations](#server-implementations)
 * [Frameworks](#frameworks)
 * [Utilities](#utilities)
 * [Tips & Tricks](#tips-and-tricks)
@@ -16,19 +15,16 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 ## Clients
 
-Checkout [awesome-mcp-clients](https://github.com/Techiral/awesome-mcp-servers/) and [glama.ai/mcp/clients](https://glama.ai/mcp/clients).
+Checkout [awesome-mcp-clients](https://github.com/Techiral/awesome-mcp-servers/).
 
-> [!TIP]
-> [Glama Chat](https://glama.ai/chat) is a multi-modal AI client with MCP support & [AI gateway](https://glama.ai/gateway).
 
 ## Tutorials
 
-* [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
+* Model Context Protocol (MCP) Quickstart ~ Will be updated soon!
 
 ## Community
 
 * [r/mcp Reddit](https://www.reddit.com/r/mcp)
-* [Discord Server](https://glama.ai/mcp/discord)
 
 ## Legend
 
@@ -53,10 +49,6 @@ Checkout [awesome-mcp-clients](https://github.com/Techiral/awesome-mcp-servers/)
 > * Use local when the MCP server is talking to a locally installed software, e.g. taking control over the Chrome browser.
 > * Use network when the MCP server is talking to remote APIs, e.g. weather API.
 
-## Server Implementations
-
-> [!NOTE]
-> We now have a [web-based directory](https://glama.ai/mcp/servers) that is synced with the repository.
 
 * 📂 - [Browser Automation](#browser-automation)
 * 🎨 - [Art & Culture](#art-and-culture)
